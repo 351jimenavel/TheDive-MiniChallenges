@@ -1,1 +1,1 @@
-# TheDive-MiniChallenges
+# The Dive - Mini Challenges
